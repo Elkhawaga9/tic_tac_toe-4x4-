@@ -1,0 +1,5 @@
+D:\c++\ECEN430 project\x64\Debug\ECEN430 project.vcxproj.AssemblyReference.cache
+D:\c++\ECEN430 project\x64\Debug\ECEN430 project.vcxproj.SuggestedBindingRedirects.cache
+D:\c++\ECEN430 project\x64\Debug\ECEN430 project.exe
+D:\c++\ECEN430 project\x64\Debug\ECEN430project.tic tac toe.resources
+D:\c++\ECEN430 project\x64\Debug\ECEN430 project.vcxproj.GenerateResource.cache
